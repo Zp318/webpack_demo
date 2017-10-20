@@ -1,0 +1,12 @@
+#test{
+	color: green;
+	display: flex;
+}
+
+.layer>div{
+	width: 406px;
+	height: 208px;
+	line-height: 208px;
+	text-align: center;
+	background:url('../images/back.png') repeat;
+}
